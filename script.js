@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
             card.className = 'case-card';
             
             let complexityClass = 'complexity-medium';
-            if (caseItem.complexity === 'Сложная') complexityClass = 'complexity-high';
+            if (caseItem.complexity === 'Сложно') complexityClass = 'complexity-high';
             
             const metricsHTML = caseItem.metrics.map(metric => 
                 `<span class="metric-tag">${metric}</span>`
