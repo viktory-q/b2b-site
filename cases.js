@@ -1,7 +1,7 @@
 const caseStudies = [
     {
         id: 1,
-        title: "«СпецГрузТранс»: внедрение CRM",
+        title: "«СпецГрузТранс»:  CRM",
         company: "СпецГрузТранс",
         industry: ["Логистика"],
         metrics: ["MQL", "Brand Recall", "SQL"],
